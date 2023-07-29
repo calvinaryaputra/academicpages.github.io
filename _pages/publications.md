@@ -1,6 +1,6 @@
 ---
 permalink: /publications/
-title: "Peer-Reviewed Journals"
+title: "Peer-Reviewed Publications"
 author_profile: true
 ---
 
