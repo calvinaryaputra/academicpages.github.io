@@ -4,7 +4,7 @@ title: "Research"
 author_profile: true
 ---
 
-My research focuses on the issues of poverty, labor, population, and gender. I am interested in these broad topics: how families break free from the cycle of poverty; transitions over the life course (i.e., labor market, marital, parenthood transitions); how people make decisions about time and gender differences in time-use allocation; and the impact evaluation of poverty and inequality reducing programs.
+My research focuses on the issues of poverty, labor, family, and population. I am interested in these broad topics: how families break free from the cycle of poverty; transitions over the life course (i.e., labor market, marital, parenthood transitions); how people make decisions about time and gender differences in time-use allocation; and the impact evaluation of poverty and inequality reducing programs.
 
 Work in Progress
 ======

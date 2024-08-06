@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a student in the University of Cambridge's MPhil in Economic Research. My main research interest is in empirical microeconomics and program evaluation, with a focus on poverty, labor, population, and women's empowerment. Currently, I am conducting research on time-use surveys in Indonesia, India, and Lesotho; and the determinants of marital transitions in Indonesia.
+Welcome! I am a PhD student in Applied Economics at the University of Minnesota. My research interests are in empirical microeconomics and program evaluation, with a focus on poverty, labor, family, and population.
 
-Prior to joining the University of Cambridge, I was a Research Assistant at PROSPERA (Australia-Indonesia Partnership for Economic Development) and the International Labor Organization (ILO). I earned my BA in Economics from the University of Indonesia.
+Prior to my PhD, I studied at the University of Cambridge and the University of Indonesia. I was also a Research Assistant at PROSPERA (Australia-Indonesia Partnership for Economic Development), the International Labor Organization (ILO), the Institute for Economic and Social Research (LPEM FEB UI), and the Demographic Institute (LD FEB UI).
