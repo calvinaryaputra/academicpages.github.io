@@ -8,7 +8,6 @@ My research focuses on the issues of poverty, labor, family, and population. I a
 
 Work in Progress
 ======
-* “Measuring Time-use Agency: Experimental Results from Indonesia” with Amy Damon, Diahhadi Setyonaluri, Usha Adelina Riyanto, and Bimbika Sijapati Basnett.
+* "The Impact of Body Weight on Wages in the Indonesian Labor Market"
 * “The Effects of Time-use Agency on Unpaid Work” with Amy Damon, Diahhadi Setyonaluri, Usha Adelina Riyanto, and Bimbika Sijapati Basnett.
 * “Determinants and Patterns of Marital Transition in Indonesia" with Diahhadi Setyonaluri, Aris Ananta, and Ariane Utomo
-* "The Heavier, the Wealthier? Analysis of the Weight-Wage Relationship in the Indonesian Labor Market Using a Discrimination Approach" with Diahhadi Setyonaluri
